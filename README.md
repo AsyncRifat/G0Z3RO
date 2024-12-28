@@ -4,7 +4,7 @@
 🖊️ Love to write code <br>
 
 <h3>🚀 About Me </h3>
-<p>I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication.</p>
+<p>I’m a Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication.</p>
 
 <h3>👨‍💻 Skills & Experiance:</h3>
 ✅ JavaScript <br>
