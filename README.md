@@ -1,7 +1,12 @@
-# Hi, I'm Ibrahim Rifat 👋
+# Hi, I'm Ibrahim Rifat 👋 <hr>
 
 👑 I am Web Developer <br>
 🖊️ Love to write code <hr>
+
+<br>
+##🚀 About Me
+
+I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. 
 
 <!--
 **G0Z3RO/G0Z3RO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
