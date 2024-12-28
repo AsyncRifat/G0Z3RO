@@ -3,9 +3,14 @@
 👑 I am Web Developer <br>
 🖊️ Love to write code 
 <br>
-<h1 title="">🚀 About Me</h1>
+<h3>🚀 About</h3>
 
 <p>I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication.</p>
+
+<h3>👨‍💻 Skills & Experiance:</h3>
+✅ JavaScript
+✅React / Node JS / Express JS / MongoDB
+✅ HTML5 / CSS3 / SASS / Tailwind
 
 <!--
 **G0Z3RO/G0Z3RO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
