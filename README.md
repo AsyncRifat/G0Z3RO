@@ -1,7 +1,7 @@
 # Hi, I'm Ibrahim Rifat 👋
 
 👑 I am Web Developer <br>
-🖊️ Love to write code <hr>
+🖊️ Love to write code 
 <br>
 <h1 title="">🚀 About Me</h1>
 
