@@ -1,6 +1,6 @@
-## Hi, I'm Ibrahim Rifat 👋
+# Hi, I'm Ibrahim Rifat 👋
 
-👑 I am Web Developer
+👑 I am Web Developer <br>
 🖊️ Love to write code
 
 <!--
