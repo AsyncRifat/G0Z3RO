@@ -1,7 +1,7 @@
 # Hi, I'm Ibrahim Rifat 👋
 
 👑 I am Web Developer <br>
-🖊️ Love to write code
+🖊️ Love to write code <hr>
 
 <!--
 **G0Z3RO/G0Z3RO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
