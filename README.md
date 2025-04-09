@@ -8,7 +8,7 @@
 
 <h3>👨‍💻 Skills & Experiance:</h3>
 ✅ JavaScript <br>
-✅React / Node JS / Express JS / MongoDB <br>
+✅React JS/ Node JS / Express JS / MongoDB <br>
 ✅ HTML5 / CSS3 / SASS / Tailwind
 
 <!--
